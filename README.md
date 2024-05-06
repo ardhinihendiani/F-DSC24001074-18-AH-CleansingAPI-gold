@@ -1,0 +1,1 @@
+Repository ini adalah proyek yang menyediakan API untuk menerima input teks atau file, dibangun dengan Flask dan dokumentasi Swagger UI. Data disimpan dalam SQLite. API dapat membersihkan teks, melakukan analisis statistika, dan menyajikan hasil dalam laporan yang mencakup judul, pendahuluan, metode penelitian, hasil, dan kesimpulan.
